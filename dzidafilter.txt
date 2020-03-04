@@ -19,8 +19,7 @@ jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-
 jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Komuniz)))))
 jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(kochamwykop)))))
 
-!komentarze zjeba od linków
-jbzd.com.pl#?#article > .inside:-abp-has(header:-abp-has(.name:-abp-has(a:-abp-contains(JarekPsikuta))))
+
 
 
 ||jbzd.com.pl/images/posty-logo.png?bb96f1c013f3eb67c83d598ec2ef145b$image
