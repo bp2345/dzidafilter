@@ -1,5 +1,5 @@
 !Lista do odfiltrowywania spamerów i irytujących trolli z mikrobloga, dodaję ich według własnego uznania. W Ublock origin powinno się aktualizować automatycznie. W razie czego zawsze możesz zrobić własną listę kopiując taką linijkę i zmieniając nick. Pozdrawiam bp2345.
-
+! Expires: 1 day
 !Posty
 jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Patr666)))))
 jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Avada)))))
