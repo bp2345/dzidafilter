@@ -1,6 +1,6 @@
 !Lista do odfiltrowywania spamerów i irytujących trolli z mikrobloga.
 !Dodaję ich według własnego uznania. W Ublock origin powinno się aktualizować automatycznie.
-!Aby dodać klikamy opcje, zakładka listy filtrów i na dole dodajemy jak jest linijka własne.
+!Aby dodać klikamy opcje, zakładka listy filtrów i na dole wklejamy ten link, jak jest linijka własne.
 !W razie czego zawsze możesz zrobić własną listę kopiując taką linijkę i zmieniając nick. Pozdrawiam bp2345.
 ! Expires: 1 day
 !Posty
