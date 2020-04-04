@@ -45,4 +45,8 @@ jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-
 jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Filipekcwel)))))
 jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(FilipCwel)))))
 
+!sekcja poświęcona zjebowi od linków.
+jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(covidgrypalekwuhan))))))
+
+
 ||jbzd.com.pl/images/posty-logo.png?bb96f1c013f3eb67c83d598ec2ef145b$image
