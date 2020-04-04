@@ -2,7 +2,7 @@
 !Dodaję ich według własnego uznania. W Ublock origin powinno się aktualizować automatycznie.
 !Aby dodać klikamy opcje, zakładka listy filtrów i na dole wklejamy ten link, jak jest linijka własne.
 !W razie czego zawsze możesz zrobić własną listę kopiując taką linijkę i zmieniając nick. Pozdrawiam bp2345.
-! Expires: 3 hours
+! Expires: 1 days
 !Posty
 jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Patr666)))))
 jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Avada)))))
@@ -52,5 +52,6 @@ jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-
 jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(covidkoronalek))))))
 jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(lekarstwowuhanskie))))))
 jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(lekleknakoronewirusa))))))
+jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(toleczykoronecovid))))))
  
 ||jbzd.com.pl/images/posty-logo.png?bb96f1c013f3eb67c83d598ec2ef145b$image
