@@ -45,6 +45,7 @@ jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-
 jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(GanQ)))))
 jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Filipekcwel)))))
 jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(FilipCwel)))))
+jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(UwielbiajmyWykop)))))
 
 !sekcja poświęcona zjebowi od linków.
 jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(covidgrypalekwuhan))))))
