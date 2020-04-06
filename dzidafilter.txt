@@ -62,6 +62,9 @@ jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-
 jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(koronacovidleczy))))))
 jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(covidwuhangrypa))))))
 jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(yebacwasiadmina))))))
-
+jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(panaceumnakorone))))))
+jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(coronacovidzalecenia))))))
+jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(covid19lekwuhan))))))
+jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(covidpandemialek))))))
 
 ||jbzd.com.pl/images/posty-logo.png?bb96f1c013f3eb67c83d598ec2ef145b$image
