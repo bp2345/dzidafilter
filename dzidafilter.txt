@@ -30,6 +30,7 @@ jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has
 jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(UwielbiajmyWykop)))))
 jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(covid19koronalek)))))
 jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(lekleknakorone)))))
+jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(szczepionkakoronawirus)))))
 
 !komentarze mikro
 jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Jacek Placek)))))
@@ -53,6 +54,7 @@ jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-
 jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(tegoniewiesz)))))
 jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(covid19koronalek)))))
 jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(lekleknakorone)))))
+jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(szczepionkakoronawirus)))))
 
 !sekcja poświęcona zjebowi od linków.
 jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(covidgrypalekwuhan))))))
