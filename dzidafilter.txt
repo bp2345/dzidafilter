@@ -58,7 +58,7 @@ jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-
 jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(szczepionkakoronawirus)))))
 jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(koronowywirus)))))
 
-!sekcja poświęcona zjebowi od linków.
+!sekcja poświęcona zjebowi od linków. Tworzona od 5 kwietnia.
 jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(covidgrypalekwuhan))))))
 jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(sarscovid19lekorona))))))
 jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(covid19koronalek))))))
@@ -93,5 +93,8 @@ jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-
 jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(sakmajkok))))))
 jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(Likdik))))))
 jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(sukmajdick))))))
+jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(digod))))))
+jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(kubas1989))))))
+jbzd.com.pl#?#.comment-wrapper:-abp-has(.comment:-abp-has(.comment-content:-abp-has(.comment-header:-abp-has(.comment-details:-abp-has(.comment-author:-abp-contains(lakito))))))
 
 ||jbzd.com.pl/images/posty-logo.png?bb96f1c013f3eb67c83d598ec2ef145b$image
