@@ -35,6 +35,7 @@ jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has
 jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(kamazejdon)))))
 jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(syn-zomowca)))))
 jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Jan Pawł II Papiesz)))))
+jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(SpongeBobXd)))))
 
 !komentarze mikro
 jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Jacek Placek)))))
