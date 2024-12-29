@@ -24,7 +24,7 @@ Jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has
 Jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(Haris_Reznow)))))
 Jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(Haris_Reznow)))))
 
-Jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(bialejestczarne)))))
-Jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(bialejestczarne)))))
+Jbzd.com.pl#?#.comment:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.username:-abp-has(.name:-abp-contains(vTwardziel)))))
+Jbzd.com.pl#?#.post:-abp-has(.wrapper:-abp-has(.user-bar:-abp-has(.user:-abp-has(.name:-abp-contains(vTwardziel)))))
 
 
